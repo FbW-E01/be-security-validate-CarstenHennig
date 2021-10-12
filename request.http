@@ -1,0 +1,8 @@
+POST http://localhost:9001/users
+Content-Type: application/json
+
+{
+    "species": "Eagle",
+    "notes": "  Largest bird of prey on earth ",
+    "estimatedAmount": "1000"
+}
